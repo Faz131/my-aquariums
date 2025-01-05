@@ -1,0 +1,57 @@
+
+.image-rotation {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  height: 400px;
+  margin: 20px auto;
+  overflow: hidden;
+}
+
+.image-rotation img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  animation: rotate 12s infinite;
+}
+
+.image-rotation img:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.image-rotation img:nth-child(2) {
+  animation-delay: 2s;
+}
+
+.image-rotation img:nth-child(3) {
+  animation-delay: 4s;
+}
+
+.image-rotation img:nth-child(4) {
+  animation-delay: 6s;
+}
+
+.image-rotation img:nth-child(5) {
+  animation-delay: 8s;
+}
+
+.image-rotation img:nth-child(6) {
+  animation-delay: 10s;
+}
+
+@keyframes rotate {
+  0% {
+    opacity: 0;
+  }
+  16.66% {
+    opacity: 1;
+  }
+  33.33% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
