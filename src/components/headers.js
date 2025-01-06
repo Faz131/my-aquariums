@@ -1,15 +1,19 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../style/App.css';
+import img1 from '../images/IMG_2341.JPEG';
+import  '../style/headerStyle.css';
 
 function Header() {
   const [isOpen, setIsOpen] = React.useState(false);
-
+  
   const toggleMenu = () =>{
     setIsOpen(!isOpen);
   }
   return (
+    
     <>
+    <img className='header-image' src={img1} alt="Image of snail" />
     <header >
         <div className="hamburger" onClick={toggleMenu}>
         &#9776;

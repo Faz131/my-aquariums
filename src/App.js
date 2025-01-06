@@ -11,21 +11,12 @@ function App() {
   return (
     <BrowserRouter>
       <>
+      
         <Header />
     
         <div className='tanks-row'>
         <Routes>
-          {/* <Route 
-            path="/" 
-            element={
-              <div>
-                Home
-                <Link to="/10gallon">10 Gallon Tanks</Link>
-                <Link to="/20gallon">20 Gallon Tanks</Link>
-                <Link to="/30gallon">30 Gallon Tanks</Link>
-                </div>
-                } 
-                /> */}
+  
           <Route path="/" element={<Home />} />
           <Route path="/10gallon" element={<TenGallon />} /> 
           <Route path="/20gallon" element={<TwentyGallon />} />  
