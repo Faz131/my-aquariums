@@ -1,11 +1,11 @@
-import Header from './components/headers';
+import Header from './components/headers.js';
 import './style/App.css';
 import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
-import TenGallon from './routes/10gallon';
-import ThirtyGallon from './routes/30gallon';
-import TwentyGallon from './routes/20gallon';
+import TenGallon from './routes/10gallon.js';
+import ThirtyGallon from './routes/30gallon.js';
+import TwentyGallon from './routes/20gallon.js';
 import './style/headerStyle.css';
-import Home from './routes/home';
+import Home from './routes/home.js';
 
 function App() {
   return (
