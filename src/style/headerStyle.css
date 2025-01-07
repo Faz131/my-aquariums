@@ -20,6 +20,7 @@ nav {
   display: none;
   font-size: 24px;
   cursor: pointer;
+  color: white;
 }
 
 .nav-links {
@@ -51,6 +52,7 @@ nav {
 @media (max-width: 768px) {
   .hamburger {
     display: block;
+    color: white;
   }
 
   .nav-links {

@@ -17,7 +17,7 @@ function App() {
         <div className='tanks-row'>
         <Routes>
   
-          <Route path="/" element={<Home />} />
+          <Route path="/Home" element={<Home />} />
           <Route path="/10gallon" element={<TenGallon />} /> 
           <Route path="/20gallon" element={<TwentyGallon />} />  
           <Route path="/30gallon" element={<ThirtyGallon />} />  
