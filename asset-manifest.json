@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-aquariums/Home/static/css/main.5075c793.css",
-    "main.js": "/my-aquariums/Home/static/js/main.96bd60da.js",
-    "static/media/IMG_2430.JPEG": "/my-aquariums/Home/static/media/IMG_2430.107e07580cc8c45c5352.JPEG",
-    "static/media/IMG_2565.JPEG": "/my-aquariums/Home/static/media/IMG_2565.37e781a7a725e2c602d4.JPEG",
-    "static/media/IMG_2576.JPEG": "/my-aquariums/Home/static/media/IMG_2576.bd7e3236ccc85574b9d7.JPEG",
-    "static/media/IMG_2345.JPEG": "/my-aquariums/Home/static/media/IMG_2345.4ca2161900bc7b52d0d2.JPEG",
-    "static/media/IMG_2392.JPEG": "/my-aquariums/Home/static/media/IMG_2392.72bccfa5bc149555ba46.JPEG",
-    "static/media/IMG_2341.JPEG": "/my-aquariums/Home/static/media/IMG_2341.4d880d4172105164886c.JPEG",
-    "index.html": "/my-aquariums/Home/index.html",
-    "main.5075c793.css.map": "/my-aquariums/Home/static/css/main.5075c793.css.map",
-    "main.96bd60da.js.map": "/my-aquariums/Home/static/js/main.96bd60da.js.map"
+    "main.css": "/my-aquariums/static/css/main.5075c793.css",
+    "main.js": "/my-aquariums/static/js/main.1aeeef60.js",
+    "static/media/IMG_2430.JPEG": "/my-aquariums/static/media/IMG_2430.107e07580cc8c45c5352.JPEG",
+    "static/media/IMG_2565.JPEG": "/my-aquariums/static/media/IMG_2565.37e781a7a725e2c602d4.JPEG",
+    "static/media/IMG_2576.JPEG": "/my-aquariums/static/media/IMG_2576.bd7e3236ccc85574b9d7.JPEG",
+    "static/media/IMG_2345.JPEG": "/my-aquariums/static/media/IMG_2345.4ca2161900bc7b52d0d2.JPEG",
+    "static/media/IMG_2392.JPEG": "/my-aquariums/static/media/IMG_2392.72bccfa5bc149555ba46.JPEG",
+    "static/media/IMG_2341.JPEG": "/my-aquariums/static/media/IMG_2341.4d880d4172105164886c.JPEG",
+    "index.html": "/my-aquariums/index.html",
+    "main.5075c793.css.map": "/my-aquariums/static/css/main.5075c793.css.map",
+    "main.1aeeef60.js.map": "/my-aquariums/static/js/main.1aeeef60.js.map"
   },
   "entrypoints": [
     "static/css/main.5075c793.css",
-    "static/js/main.96bd60da.js"
+    "static/js/main.1aeeef60.js"
   ]
 }
