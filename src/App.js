@@ -7,6 +7,7 @@ import TwentyGallon from './routes/20gallon.js';
 import './style/headerStyle.css';
 import Home from './routes/home.js';
 
+
 function App() {
   return (
     <BrowserRouter>
@@ -15,15 +16,15 @@ function App() {
         <Header />
     
         <div className='tanks-row'>
+
         <Routes>
   
-          <Route path="/Home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/10gallon" element={<TenGallon />} /> 
           <Route path="/20gallon" element={<TwentyGallon />} />  
           <Route path="/30gallon" element={<ThirtyGallon />} />  
         </Routes>
           </div>
-
         
       </>
     </BrowserRouter>

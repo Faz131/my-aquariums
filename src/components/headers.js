@@ -20,7 +20,7 @@ function Header() {
         </div>
       <nav >
         <ul className={isOpen ? 'nav-links open' : 'nav-links'}>
-          <li><Link to="/Home" className='fas fa-home'></Link></li>
+          <li><Link to="/" className='fas fa-home'></Link></li>
           <li><Link to="/10gallon">10 Gallon Tanks</Link></li>
           <li><Link to="/20gallon">20 Gallon Tanks</Link></li>
           <li><Link to="/30gallon">30 Gallon Tanks</Link></li>
