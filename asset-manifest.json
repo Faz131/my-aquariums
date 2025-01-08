@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-aquariums/static/css/main.5075c793.css",
-    "main.js": "/my-aquariums/static/js/main.adf02bcc.js",
+    "main.js": "/my-aquariums/static/js/main.42a86e18.js",
     "static/media/IMG_2430.JPEG": "/my-aquariums/static/media/IMG_2430.107e07580cc8c45c5352.JPEG",
     "static/media/IMG_2565.JPEG": "/my-aquariums/static/media/IMG_2565.37e781a7a725e2c602d4.JPEG",
     "static/media/IMG_2576.JPEG": "/my-aquariums/static/media/IMG_2576.bd7e3236ccc85574b9d7.JPEG",
@@ -10,10 +10,10 @@
     "static/media/IMG_2341.JPEG": "/my-aquariums/static/media/IMG_2341.4d880d4172105164886c.JPEG",
     "index.html": "/my-aquariums/index.html",
     "main.5075c793.css.map": "/my-aquariums/static/css/main.5075c793.css.map",
-    "main.adf02bcc.js.map": "/my-aquariums/static/js/main.adf02bcc.js.map"
+    "main.42a86e18.js.map": "/my-aquariums/static/js/main.42a86e18.js.map"
   },
   "entrypoints": [
     "static/css/main.5075c793.css",
-    "static/js/main.adf02bcc.js"
+    "static/js/main.42a86e18.js"
   ]
 }
