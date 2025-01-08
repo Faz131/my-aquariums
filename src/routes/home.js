@@ -1,6 +1,6 @@
 import React from "react";
 import '../style/rotation.css';
-import '../style/App.css';
+// import '../style/App.css';
 import img1 from '../images/IMG_2341.JPEG';
 import img2 from '../images/IMG_2345.JPEG';
 import img3 from '../images/IMG_2392.JPEG';
